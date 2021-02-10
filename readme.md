@@ -1,4 +1,4 @@
-# Wherehouse Application
+# Simple API application
 
 Simple API application to store user information.
 
